@@ -1,0 +1,6 @@
+net/performetric/h2o/service/TitanicService.class
+net/performetric/h2o/model/TitanicInput.class
+net/performetric/h2o/model/TitanicScoreResult.class
+net/performetric/h2o/converter/TitanicConverter.class
+net/performetric/h2o/controller/TitanicController.class
+net/performetric/h2o/H2OApplication.class
